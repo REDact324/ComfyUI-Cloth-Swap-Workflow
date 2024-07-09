@@ -6,7 +6,11 @@ Utilize SAM models to segment the clothing in model image, and IP-Adapter for im
 ![Screenshot of overall workflow](./workflow.png)
 
 ### Some results
+<img src="./samples/zly/zly3.jpeg" width="25%"> <img src="./samples/zly/cloth3.png" width="25%"> <img src="./samples/zly/out3.png" width="25%">
 
+<img src="./samples/zly/zly2.jpg" width="25%"> <img src="./samples/zly/cloth2.png" width="25%"> <img src="./samples/zly/out2.png" width="25%">
+
+<img src="./samples/image_2/model-2.jpg" width="25%"> <img src="./samples/image_2/cloth-2.jpg" width="25%"> <img src="./samples/image_2/out-2.png" width="25%">
 
 ## Required Costum Nodes
 - [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)

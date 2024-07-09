@@ -1,5 +1,5 @@
 # ComfyUI-Cloth-Swap-Workflow
-ComfyUI workflow for cloth-swapping. 
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflow for cloth-swapping. 
 
 Utilize SAM models to segment the clothing in model image, and IP-Adapter for image-to-image conditioning.
 

@@ -9,8 +9,8 @@ ComfyUI workflow for cloth-swapping.
 - [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 
 ## Model Used
-- AlbedobaseXL v2.1 for inpainting
-- epiCPhotoGasm Ultimate Fidelity for detail refining
+- [AlbedobaseXL v2.1](https://civitai.com/models/140737/albedobase-xl) for inpainting
+- [epiCPhotoGasm Ultimate Fidelity](https://civitai.com/models/132632?modelVersionId=429454) for detail refining
 - Please share any models with better results if you found
 
 ## Limitation

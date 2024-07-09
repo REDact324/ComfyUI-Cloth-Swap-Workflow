@@ -5,6 +5,9 @@ Utilize SAM models to segment the clothing in model image, and IP-Adapter for im
 
 ![Screenshot of overall workflow](./workflow.png)
 
+### Some results
+
+
 ## Required Costum Nodes
 - [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 - [segment anything](https://github.com/storyicon/comfyui_segment_anything)

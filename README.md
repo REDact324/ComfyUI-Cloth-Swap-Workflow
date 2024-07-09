@@ -1,2 +1,2 @@
 # ComfyUI-Cloth-Swap-Workflow
-ComfyUI workflow for cloth swap
+ComfyUI workflow for cloth-swapping.

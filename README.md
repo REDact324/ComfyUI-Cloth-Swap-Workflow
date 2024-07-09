@@ -1,6 +1,8 @@
 # ComfyUI-Cloth-Swap-Workflow
 ComfyUI workflow for cloth-swapping. 
 
+Utilize SAM models to segment the clothing in model image, and IP-Adapter for image-to-image conditioning.
+
 ![Screenshot of overall workflow](./workflow.png)
 
 ## Required Costum Nodes
@@ -11,7 +13,8 @@ ComfyUI workflow for cloth-swapping.
 ## Model Used
 - [AlbedobaseXL v2.1](https://civitai.com/models/140737/albedobase-xl) for inpainting
 - [epiCPhotoGasm Ultimate Fidelity](https://civitai.com/models/132632?modelVersionId=429454) for detail refining
-- Please share any models with better results if you found
+
+Please share any models you found with better results🤗
 
 ## Limitation
 - The input clothing style should be similar to the input character clothing.

@@ -16,6 +16,7 @@ Utilize SAM models to segment the clothing in model image, and IP-Adapter for im
 - [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 - [segment anything](https://github.com/storyicon/comfyui_segment_anything)
 - [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+- [comfyui-art-venture](https://github.com/sipherxyz/comfyui-art-venture)
 
 ## Model Used
 - [AlbedobaseXL v2.1](https://civitai.com/models/140737/albedobase-xl) for inpainting
